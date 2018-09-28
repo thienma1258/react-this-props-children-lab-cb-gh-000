@@ -10,9 +10,9 @@ render(){
 </div>
 
 
-    
+
   )
 }
-  
+
 }
 export default ThemedDecorations;
