@@ -11,9 +11,9 @@ render(){
 </div>
 
 
-    
+
   )
 }
-  
+
 }
 export default Invitation;
