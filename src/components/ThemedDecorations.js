@@ -10,7 +10,7 @@ render(){
   const props = { ...item.props, className: this.props.theme };
 return React.cloneElement(item, props, "TEST");
 
-  
+
 })}
 </div>
 
